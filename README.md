@@ -7,6 +7,3 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 # Hola mundo
 Esta es una prueba de otro usuario porque sí
-
-## Hola mundo otra vez
-Esta es una prueba del usuario original
